@@ -1,0 +1,11 @@
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\bin\Debug\netcoreapp2.1\apimtemplate.deps.json
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\bin\Debug\netcoreapp2.1\apimtemplate.runtimeconfig.json
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\bin\Debug\netcoreapp2.1\apimtemplate.runtimeconfig.dev.json
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\bin\Debug\netcoreapp2.1\apimtemplate.dll
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\bin\Debug\netcoreapp2.1\apimtemplate.pdb
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\obj\Debug\netcoreapp2.1\apimtemplate.csprojAssemblyReference.cache
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\obj\Debug\netcoreapp2.1\apimtemplate.csproj.CoreCompileInputs.cache
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\obj\Debug\netcoreapp2.1\apimtemplate.AssemblyInfoInputs.cache
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\obj\Debug\netcoreapp2.1\apimtemplate.AssemblyInfo.cs
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\obj\Debug\netcoreapp2.1\apimtemplate.dll
+C:\Users\shkhose\source\repos\azure-api-management-devops-example\src\APIM_ARMTemplate\apimtemplate\obj\Debug\netcoreapp2.1\apimtemplate.pdb
