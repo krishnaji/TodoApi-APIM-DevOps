@@ -31,4 +31,4 @@ api:
   products: starter    # Optional, adds api to the specified products
 outputLocation: C:\Users\shkhose\source\repos\TodoApi-APIM-DevOps\output # Required, folder the creator will write the templates to
 linked: true   # Optional
-linkedTemplatesBaseUrl : https://github.com/krishnaji/TodoApi-APIM-DevOps/tree/master/output  # Required if 'linked' property is set to true
+linkedTemplatesBaseUrl : https://github.com/krishnaji/TodoApi-APIM-DevOps/tree/master/output/  # Required if 'linked' property is set to true
