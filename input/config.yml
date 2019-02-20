@@ -9,7 +9,7 @@ apiVersionSet:   # Optional
     versionHeaderName: versionHeader
 api:
   name: myAPI   # Required
-  openApiSpec: https://dotnetcore-api-app.azurewebsites.net/swagger/v1/swagger.json    # Required, can be url or local file
+  openApiSpec: C:\Users\suprano\Documents\TodoApi-APIM-DevOps\input\swagger.json   # Required, can be url or local file
   #openApiSpec: https://petstore.swagger.io/v2/swagger.json
   policy: C:\Users\suprano\Documents\TodoApi-APIM-DevOps\input\apiPolicyHeaders.xml # Optional, can be url or local file
   suffix: myAPIPet   # Required
