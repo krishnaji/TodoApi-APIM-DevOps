@@ -11,7 +11,7 @@ api:
   name: myAPI   # Required
   openApiSpec: https://dotnetcore-api-app.azurewebsites.net/swagger/v1/swagger.json    # Required, can be url or local file
   #openApiSpec: https://petstore.swagger.io/v2/swagger.json
-  policy: C:\Users\shkhose\source\repos\TodoApi-APIM-DevOps\input\apiPolicyHeaders.xml # Optional, can be url or local file
+  policy: C:\Users\suprano\Documents\TodoApi-APIM-DevOps\input\apiPolicyHeaders.xml # Optional, can be url or local file
   suffix: myAPIPet   # Required
   apiVersion: v1   # Optional
   apiVersionDescription: My first version   # Optional 
@@ -20,15 +20,15 @@ api:
   revisionDescription: My first revision   # Optional
   operations:   # Optional
     ApiTodoByIdGet: # Must match the operationId property of a path's operations
-      policy: C:\Users\shkhose\source\repos\TodoApi-APIM-DevOps\input\operationRateLimit.xml  # Optional, can be url or local file
+      policy: C:\Users\suprano\Documents\TodoApi-APIM-DevOps\input\operationRateLimit.xml  # Optional, can be url or local file
     ApiTodoGet:  # Must match the operationId property of a path's operations
-      policy: C:\Users\shkhose\source\repos\TodoApi-APIM-DevOps\input\operationRateLimit.xml  # Optional, can be url or local file
+      policy: C:\Users\suprano\Documents\TodoApi-APIM-DevOps\input\operationRateLimit.xml  # Optional, can be url or local file
   authenticationSettings:   # Optional
     subscriptionKeyRequired: false
     #oAuth2:
     #    authorizationServerId: apimgmtaad
     #    scope: scope
   products: starter    # Optional, adds api to the specified products
-outputLocation: C:\Users\shkhose\source\repos\TodoApi-APIM-DevOps\output # Required, folder the creator will write the templates to
+outputLocation: C:\Users\suprano\Documents\TodoApi-APIM-DevOps\output # Required, folder the creator will write the templates to
 linked: true   # Optional
-linkedTemplatesBaseUrl : https://github.com/krishnaji/TodoApi-APIM-DevOps/tree/master/output/  # Required if 'linked' property is set to true
+linkedTemplatesBaseUrl : https://raw.githubusercontent.com/krishnaji/TodoApi-APIM-DevOps/master/output/  # Required if 'linked' property is set to true
